@@ -33,7 +33,7 @@ height: 10rem;
 
 .btn-primary{
   background-color: #F05F44;
-  border-color: #F05F44;
+  border-color: transparent;
   border-width: 4px;
 }
 
